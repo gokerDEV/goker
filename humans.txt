@@ -1,0 +1,11 @@
+/* PERSON */
+Name: Göker Cebeci
+Known as: Goker
+Location: Edirne, Türkiye
+Website: https://gokercebeci.com/
+
+/* SITE */
+Language: English, Turkish
+Standards: HTML5, CSS, JSON-LD
+Hosting: GitHub Pages
+Last update: 2026-09-07
