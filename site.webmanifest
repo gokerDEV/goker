@@ -1,0 +1,17 @@
+{
+  "name": "Goker — Göker Cebeci",
+  "short_name": "Goker",
+  "description": "The canonical profile of Goker — Göker Cebeci.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e4",
+  "theme_color": "#191916",
+  "icons": [
+    {
+      "src": "/profile.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
